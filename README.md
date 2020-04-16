@@ -19,3 +19,13 @@ By adding extra items for your menu, you can let customers select their favorite
 
 ### Dynamic Offers & Discount (Custom)
 You can customize discount or another offer for new & existing customers.
+
+## How To Install Food Online Ordering App For Restaurants
+1. Download the latest version at [Gigasource](https://gigasource.io/food-online-ordering/)
+2. [Installation guide](https://gigasource.io/food-online-ordering/)
+
+Free Software On Github
+1. [Cloud based Digital Signage Software](https://gigasource.io/cloud-signage/)
+2. [Facial Recognition Attendance System](https://gigasource.io/face-attendance/)
+3. [POS For Restaurant](https://gigasource.io/pos-restaurant/)
+4. [POS For Retail](https://gigasource.io/pos-retail/)
